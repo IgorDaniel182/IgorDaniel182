@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @IgorDaniel182
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-IgorDaniel182/IgorDaniel182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi, eu sou @IgorDaniel182
+- 👀 Eu estou interessado em me tornar desenvolvedor de sistemas e começar uma empresa com o objetivo de "trazer" crianças pobres ou com incapacidades para treina-las e fazer com que se tornem o que desejam futuramente e até influenciando a se interessarem pela área tecnologica.
+- 🌱 Eu estou aprendendo a ser um desenvolvedor de sistemas.
+- 💞️ Eu estou procurando colaborar me juntando a uma das empresas da Porto Digital.
+- 📫 Como me encontrar? Me mandando mensagens no Linkedln: https://www.linkedin.com/in/igor-daniel-a73037211/ ou no meio e-mail: igordaniel1903@gmail.com
